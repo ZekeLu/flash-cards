@@ -1,5 +1,216 @@
 [
   {
+    "id": "E1B12",
+    "category": "c1",
+    "title": "12. A boy and a wolf",
+    "cards": [
+      "boy",
+      "wolf",
+      "farmer",
+      "narrator",
+      "come",
+      "where",
+      "bad",
+      "poor",
+      "tell",
+      "lie",
+      "run away"
+    ]
+  },
+  {
+    "id": "E1B11",
+    "category": "c1",
+    "title": "11. New Year's Day",
+    "cards": [
+      "new year",
+      "gift",
+      "card",
+      "firecracker",
+      "firework",
+      "make",
+      "write",
+      "fold",
+      "Miss",
+      "shopping"
+    ]
+  },
+  {
+    "id": "E1B10",
+    "category": "c1",
+    "title": "10. Activities",
+    "cards": [
+      "activity",
+      "ride",
+      "skip",
+      "play",
+      "fly",
+      "playtime",
+      "football",
+      "rope"
+    ]
+  },
+  {
+    "id": "E1B9",
+    "category": "c1",
+    "title": "9. Clothes",
+    "cards": [
+      "clothes",
+      "need",
+      "new",
+      "T-shirt",
+      "dress",
+      "shorts",
+      "blouse",
+      "don't"
+    ]
+  },
+  {
+    "id": "E1B8",
+    "category": "c1",
+    "title": "8. Weather",
+    "cards": [
+      "how",
+      "weather",
+      "cloudy",
+      "sunny",
+      "rainy",
+      "windy",
+      "hot",
+      "go",
+      "to",
+      "beach"
+    ]
+  },
+  {
+    "id": "E1B7",
+    "category": "c1",
+    "title": "7. Seasons",
+    "cards": [
+      "season",
+      "spring",
+      "summer",
+      "autumn",
+      "winter",
+      "white",
+      "grass",
+      "watermelon"
+    ]
+  },
+  {
+    "id": "E1B6",
+    "category": "c1",
+    "title": "6. Drinks I like",
+    "cards": [
+      "drink",
+      "water",
+      "cola",
+      "juice",
+      "milk",
+      "birthday",
+      "party",
+      "happy",
+      "song"
+    ]
+  },
+  {
+    "id": "E1B5",
+    "category": "c1",
+    "title": "5. Food I like",
+    "cards": [
+      "food",
+      "sweet",
+      "jelly",
+      "ice cream",
+      "biscuit",
+      "teatime",
+      "for",
+      "and",
+      "sorry",
+      "very much"
+    ]
+  },
+  {
+    "id": "E1B4",
+    "category": "c1",
+    "title": "4. Toys I like",
+    "cards": [
+      "toy",
+      "like",
+      "ball",
+      "doll",
+      "kite",
+      "bicycle",
+      "toy shop",
+      "super"
+    ]
+  },
+  {
+    "id": "E1B3",
+    "category": "c1",
+    "title": "3. Taste and smell",
+    "cards": [
+      "smell",
+        "taste",
+        "rice",
+        "soup",
+        "egg",
+        "noodles",
+        "yummy",
+        "restaurant",
+        "help",
+        "stand up",
+        "flower"
+    ]
+  },
+  {
+    "id": "E1B2",
+    "category": "c1",
+    "title": "2. Listen and hear",
+    "cards": [
+      "listen",
+      "hear",
+      "sheep",
+      "hen",
+      "dog",
+      "cat",
+      "home"
+    ]
+  },
+  {
+    "id": "E1B1",
+    "category": "c1",
+    "title": "1. Look and see",
+    "cards": [
+      "see",
+      "frog",
+      "rabbit",
+      "bee",
+      "bird"
+    ]
+  },
+  {
+    "id": "E1B0",
+    "category": "c1",
+    "title": "0. Daily expressions",
+    "cards": [
+      "Oh, it's you,",
+      "Yummy.",
+      "It's super.",
+      "Sorry.",
+      "I like ... very much",
+      "Happy birthday!",
+      "Let's ...",
+      "How's the weather?",
+      "OK.",
+      "Happy New Year!",
+      "A gift for you, ...",
+      "Help!",
+      "Here come(s) ...",
+      "No ...",
+      "Don't tell a lie!"
+    ]
+  },
+  {
     "id": "E1A12",
     "category": "c1",
     "title": "12. In the park",
